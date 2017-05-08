@@ -8,6 +8,8 @@
 
 #import "WDGradientCircle.h"
 
+IB_DESIGNABLE
+
 @interface WDGradientCircle () {
     CGFloat radius;
 }
